@@ -54,13 +54,15 @@ var quotes = [
 				"What you lack in talent can be made up with desire, hustle and giving 110% all the time.",
 				"Develop an 'Attitude of Gratitude'. Say Thank You to everyone you meet for everything they do for you.",
 				"Reading is to the mind, as exercise is to the body.",
-				"For every reason it's not possible, there are hundreds of people who have faced the same circumstances and succeeded.",
+				"For every reason it's not possible, hundreds of people who have faced the same circumstances and succeeded.",
 				"Things work out best for those who make the best of how things work out.",
 				"A room without books is like a body without a soul.",
 				"I think goals should never be easy, they should force you to work, even if they are uncomfortable at the time.",
 				"Today's accomplishments were yesterday's impossibilities.",
 				"The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle.",
 				"You don't have to be great to start, but you have to start to be great.",
+				"There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
+				"The healthiest competition occurs when average people win by putting above average effort.",
 				"A clear vision, backed by definite plans, gives you a tremendous feeling of confidence and personal power.",
 				];
 
